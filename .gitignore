@@ -1,7 +1,7 @@
-Infraestructure\bin
-Infraestructure\obj
-Domain\bin
-Domain\obj
-ApiWebForm\bin
-ApiWebForm\obj
-.vs
+Infraestructure/bin/*
+Infraestructure/obj/*
+Domain/bin/*
+Domain/obj/*
+ApiWebForm/bin/*
+ApiWebForm/obj/*
+.vs/*
